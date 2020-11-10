@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\94de35269ceeea551d73e7c19f7b5a03\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-rc01.aar\eda2d7c8223da58583c260b74979a323\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d54772177d142e863a3fa2aad75c1226\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\143c2738c5cb3f7a52abf5a9d0efa461\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\778fffee6b23acab1f011e2c067a4698\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-rc01.aar\3d74fa9baf2dd25d5ae4ac84a66c1e8a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\45f5337a1d8af562b92194c4f620533a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\57f89b615c20b3b2cb93c18d28dadb0f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\44b7092a8671826dd72c4d2ce7a6f01f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2d91bde8b6e67c19f7be76e4b1b1aeda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\8d6a29913496b4d72527575f3d7579d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b67e3789dda35203f127f2568eb9b0f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4b2ddec6f6e00edb645e9c1ba2346c54\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\5149cbb517f9a16953dde1ade71588b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c411181cbaef98e16e467df19d6c5f21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\647fb3e30c800cdff9080a3edd09d06f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-rc01.aar\13717b73f16cdd782b62f3c5ab9db330\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\09d9e142c4878571316e24373572f059\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d22f41574f8491b179a8b2a1fa3e0643\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\733aa9ac84e67e68c7a3bee7349f6fa4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\26e2a1c43a94b0dff794fff41660bae4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\75e28ded3bb356c5becccc004c679ef3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\584643f351488d375c178ddfe717e645\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\938cb7b11cac1f5951b654c7bc8dc337\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\ec599f8caa7f2e9583673be627ccef44\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\50132928de39497987dae53a8244c3d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f5b5f2e85e55e9eb8a3b0e79d9f07806\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\36619c3ecf1f80971f9f3da31a7c4f02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\883c3c399b644ed7df1b184ecf7d1a21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\8a28687b3c5eaa1581e29216772516bf\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\94de35269ceeea551d73e7c19f7b5a03\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\94de35269ceeea551d73e7c19f7b5a03\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\143c2738c5cb3f7a52abf5a9d0efa461\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\143c2738c5cb3f7a52abf5a9d0efa461\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\09d9e142c4878571316e24373572f059\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\09d9e142c4878571316e24373572f059\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d22f41574f8491b179a8b2a1fa3e0643\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d22f41574f8491b179a8b2a1fa3e0643\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\8a28687b3c5eaa1581e29216772516bf\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\8a28687b3c5eaa1581e29216772516bf\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\09d9e142c4878571316e24373572f059\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:10:9-39
+	android:allowBackup
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.countershockjava.SurpriseActivity
+ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:15:9-17:20
+	android:theme
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:15:19-51
+activity#com.example.countershockjava.MainActivity
+ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\94de35269ceeea551d73e7c19f7b5a03\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\94de35269ceeea551d73e7c19f7b5a03\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-rc01.aar\eda2d7c8223da58583c260b74979a323\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-rc01.aar\eda2d7c8223da58583c260b74979a323\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d54772177d142e863a3fa2aad75c1226\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d54772177d142e863a3fa2aad75c1226\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\143c2738c5cb3f7a52abf5a9d0efa461\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\143c2738c5cb3f7a52abf5a9d0efa461\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\778fffee6b23acab1f011e2c067a4698\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\778fffee6b23acab1f011e2c067a4698\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-rc01.aar\3d74fa9baf2dd25d5ae4ac84a66c1e8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-rc01.aar\3d74fa9baf2dd25d5ae4ac84a66c1e8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\45f5337a1d8af562b92194c4f620533a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\45f5337a1d8af562b92194c4f620533a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\57f89b615c20b3b2cb93c18d28dadb0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\57f89b615c20b3b2cb93c18d28dadb0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\44b7092a8671826dd72c4d2ce7a6f01f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\44b7092a8671826dd72c4d2ce7a6f01f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2d91bde8b6e67c19f7be76e4b1b1aeda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2d91bde8b6e67c19f7be76e4b1b1aeda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\8d6a29913496b4d72527575f3d7579d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\8d6a29913496b4d72527575f3d7579d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b67e3789dda35203f127f2568eb9b0f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b67e3789dda35203f127f2568eb9b0f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4b2ddec6f6e00edb645e9c1ba2346c54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4b2ddec6f6e00edb645e9c1ba2346c54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\5149cbb517f9a16953dde1ade71588b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\5149cbb517f9a16953dde1ade71588b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c411181cbaef98e16e467df19d6c5f21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c411181cbaef98e16e467df19d6c5f21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\647fb3e30c800cdff9080a3edd09d06f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\647fb3e30c800cdff9080a3edd09d06f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-rc01.aar\13717b73f16cdd782b62f3c5ab9db330\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-rc01.aar\13717b73f16cdd782b62f3c5ab9db330\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\09d9e142c4878571316e24373572f059\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\09d9e142c4878571316e24373572f059\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d22f41574f8491b179a8b2a1fa3e0643\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d22f41574f8491b179a8b2a1fa3e0643\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\733aa9ac84e67e68c7a3bee7349f6fa4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\733aa9ac84e67e68c7a3bee7349f6fa4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\26e2a1c43a94b0dff794fff41660bae4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\26e2a1c43a94b0dff794fff41660bae4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\75e28ded3bb356c5becccc004c679ef3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\75e28ded3bb356c5becccc004c679ef3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\584643f351488d375c178ddfe717e645\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\584643f351488d375c178ddfe717e645\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\938cb7b11cac1f5951b654c7bc8dc337\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\938cb7b11cac1f5951b654c7bc8dc337\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\ec599f8caa7f2e9583673be627ccef44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\ec599f8caa7f2e9583673be627ccef44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\50132928de39497987dae53a8244c3d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\50132928de39497987dae53a8244c3d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f5b5f2e85e55e9eb8a3b0e79d9f07806\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f5b5f2e85e55e9eb8a3b0e79d9f07806\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\36619c3ecf1f80971f9f3da31a7c4f02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\36619c3ecf1f80971f9f3da31a7c4f02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\883c3c399b644ed7df1b184ecf7d1a21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\883c3c399b644ed7df1b184ecf7d1a21\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\8a28687b3c5eaa1581e29216772516bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\prati\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\8a28687b3c5eaa1581e29216772516bf\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prati\AndroidStudioProjects\CounterShockJava\app\src\main\AndroidManifest.xml
